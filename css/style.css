@@ -853,8 +853,8 @@ footer ul li a:hover {
     .header_right .text-3 {
         font-size: 1.2rem;
     }
-    .header_right a{
-        margin-bottom: 0.3rem;
+    .header_right p{
+        margin-bottom: 3rem;
     }
 
     .btn {
